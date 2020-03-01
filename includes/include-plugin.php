@@ -4,7 +4,7 @@
 class Plugin {
 
 
-	protected static $version = '0.0.1';
+	protected static $version = '1.0.0';
 
 
 	public function init() {

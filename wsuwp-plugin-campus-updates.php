@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/washingtonstateuniversity/wsuwp-plugin-campus-updates
  * Description: 
  * Author: Washington State University, Danial Bleile
- * Version: 0.0.1
+ * Version: 1.0.0
  * Author URI: https://web.wsu.edu
  */
 
